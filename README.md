@@ -29,7 +29,7 @@ Next, create a variable to store the *key frame info*. Write the following, exce
 var keyFrames = '[{"keyFrameNum":0,"x":0,"y":0,"rotation":0,"opacity":"0","timingFunction":"Linear","timestamp":0},{"keyFrameNum":1,"x":169,"y":72,"rotation":"20","opacity":".5","timingFunction":"Linear","timestamp":606},{"keyFrameNum":2,"x":"-169","y":"-72","rotation":"-20","opacity":1,"timingFunction":"Linear","timestamp":1206.4856643646121}]';
 `
 
-Add one last line of code to your program, and you're done.
+Add the following line of code to your program, and you're done.
 
 `Gryphon.animate(element, keyFrames);`
 
