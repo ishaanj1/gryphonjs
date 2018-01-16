@@ -32,3 +32,8 @@ var keyFrames = '[{"keyFrameNum":0,"x":0,"y":0,"rotation":0,"opacity":"0","timin
 Add one last line of code to your program, and you're done.
 
 `Gryphon.animate(element, keyFrames);`
+
+Congrats!
+
+PS: If you're interested in seeing the source code for the [Gryphon JS](https://gryphonjs.herokuapp.com) website, you can find it 
+[here](https://github.com/ishaanj1/gryphonjs-app).
