@@ -2,7 +2,7 @@
 _animation tool for the web_
 
 ## Overview
-Trying to put some cool animations in your website but unwilling to spend hours fiddling with CSS code? Well you're in luck, friendo.
+Trying to put some cool animations in your website but unwilling to spend hours fiddling with CSS code?
 Gryphon JS is a tool that simplifies the process of animating HTML elements. Continue reading to find out how!
 
 ## Step 1: Import our libray
@@ -25,11 +25,11 @@ write the following:
 
 Next, create a variable to store the *key frame info*. Write the following, except subsitute the example *key frame info* with your own.
 
-`
+```
 var keyFrames = '[{"keyFrameNum":0,"x":0,"y":0,"rotation":0,"opacity":"0","timingFunction":"Linear","timestamp":0},{"keyFrameNum":1,"x":169,"y":72,"rotation":"20","opacity":".5","timingFunction":"Linear","timestamp":606},{"keyFrameNum":2,"x":"-169","y":"-72","rotation":"-20","opacity":1,"timingFunction":"Linear","timestamp":1206.4856643646121}]';
-`
+```
 
-Add the following line of code to your program, and you're done.
+Add this last line of code to your program, and you're done.
 
 `Gryphon.animate(element, keyFrames);`
 
