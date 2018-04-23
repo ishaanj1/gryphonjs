@@ -6,7 +6,7 @@ Trying to put some cool animations in your website but unwilling to spend hours 
 Gryphon JS is a tool that simplifies the process of animating HTML elements. Continue reading to find out how!
 
 ## Step 1: Import our libray
-Er I need to put this code up on the npm website. Should have that done in a couple days (I have college work to do at the moment).
+code --> npm website
 
 ## Step 2: Create your animation
 Head over to the [Gryphon JS](https://gryphonjs.herokuapp.com) website and play around. It's meant to resemble the interface of a typical
