@@ -19,7 +19,7 @@ Include the following code in your HTML file to import our library and its depen
 Head over to the [Gryphon JS](https://gryphonjs.herokuapp.com) website and play around. It's meant to resemble the interface of a typical video editing software, and should be pretty self explanatory. Whatever animation you create for the box will later be applied to your own website's HTML element.
 
 ## Step 3: Transfer the animation sequence to your web app
-This step assumes you have already gone to [Gryphon JS](https://gryphonjs.herokuapp.com). Once you're satisfied with your animation, click the "Export JSON" button. Some text should pop up; this is the *key frame info*.
+This step assumes you have already gone to the [Gryphon JS](https://gryphonjs.herokuapp.com) website. Once you're satisfied with your animation, click the "Export JSON" button. Some text should pop up; this is the *key frame info*.
 
 Now you have everything you need to animate your website element, with just three lines of JavaScript code.
 
@@ -39,6 +39,6 @@ Add this last line of code to your program, and you're done.
 
 Congrats!
 
-[Here](https://github.com/ishaanj1/gryphonjs-demo)'s an example of a super basic website using Gryphon JS.
+[Here](https://github.com/ishaanj1/gryphonjs-demo)'s an example of some super basic code that uses the Gryphon JS library to make a simple animation.
 
 If you're interested in seeing the source code for the [Gryphon JS](https://gryphonjs.herokuapp.com) website, you can find it [here](https://github.com/ishaanj1/gryphonjs-app).
