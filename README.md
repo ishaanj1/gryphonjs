@@ -12,7 +12,7 @@ Include the following code in your HTML file to import our library and its depen
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenLite.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TimelineLite.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/plugins/CSSPlugin.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gryphonjs@1.0.0/gryphon.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gryphonjs@1.0.1/gryphon.js"></script>
 ```
 
 ## Step 2: Create your animation
