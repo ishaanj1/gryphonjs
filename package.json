@@ -1,0 +1,19 @@
+{
+  "name": "gryphonjs",
+  "version": "1.0.0",
+  "description": "_animation tool for the web_",
+  "main": "gryphon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaanj1/gryphonjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaanj1/gryphonjs/issues"
+  },
+  "homepage": "https://github.com/ishaanj1/gryphonjs#readme"
+}
