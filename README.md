@@ -39,4 +39,6 @@ Add this last line of code to your program, and you're done.
 
 Congrats!
 
-PS: If you're interested in seeing the source code for the [Gryphon JS](https://gryphonjs.herokuapp.com) website, you can find it [here](https://github.com/ishaanj1/gryphonjs-app).
+[Here](https://github.com/ishaanj1/gryphonjs-demo)'s an example of a super basic website using Gryphon JS.
+
+If you're interested in seeing the source code for the [Gryphon JS](https://gryphonjs.herokuapp.com) website, you can find it [here](https://github.com/ishaanj1/gryphonjs-app).
