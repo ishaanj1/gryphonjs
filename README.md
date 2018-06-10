@@ -23,7 +23,7 @@ This step assumes you have already gone to [Gryphon JS](https://gryphonjs.heroku
 
 Now you have everything you need to animate your website element, with just three lines of JavaScript code.
 
-First, create a variable for the HTML element you are trying to animate. If your HTML element has the `'i-want-animation'` id, you could write the following:
+First, create a variable for the HTML element you are trying to animate. If your HTML element has the `'i-want-animation'` id, you would write the following:
 
 `var element = document.getElementById('i-want-animation');`
 
