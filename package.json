@@ -1,6 +1,6 @@
 {
   "name": "gryphonjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "_animation tool for the web_",
   "main": "gryphon.js",
   "scripts": {
