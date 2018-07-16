@@ -2,9 +2,7 @@
 _animation tool for the web_
 
 ## Overview
-Trying to put some cool animations in your website but unwilling to spend hours fiddling with CSS code?
-
-Gryphon JS is a tool that simplifies the process of animating HTML elements.
+Gryphon JS is a tool that simplifies the process of animating HTML elements, for those unwilling to spend hours fiddling with CSS code.
 
 ## Step 1: Import our libray
 Include the following code in your HTML file to import our library and its dependencies.
